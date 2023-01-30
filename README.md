@@ -1,1 +1,1 @@
-##Kodluyoruz "Başlangıç Seviye FrontEnd" eğitimi için odevler..
+#Kodluyoruz "Başlangıç Seviye FrontEnd" eğitimi için odevler..
